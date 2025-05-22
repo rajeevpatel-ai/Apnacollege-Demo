@@ -1,3 +1,3 @@
 # Apnacollege-Demo
 this is my first repostiory
-Author Rajeev Patel
+Author Rajeev Patel(SRIT)
